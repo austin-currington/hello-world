@@ -1,2 +1,5 @@
 # hello-world
-repository for Github's tutorial 
+
+Hello World! 
+
+Austin Currington here, I am a Junior in High School, currently learning how to use github.
